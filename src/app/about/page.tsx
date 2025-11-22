@@ -11,7 +11,7 @@ const About = () => {
             <span className="text-orange-300">Abo</span><span className="text-green-300">ut</span> <span className="text-blue-300">Us</span>
           </h1>
           <p className="sm:text-center font-semibold text-black ">
-          Welcome to the ultimate productivity hub , designed to streamline your career development and communication needs.<br />   Our platform centralizes multiple powerful tools to help you succeed, from general knowledge  assistance to <br />  specialized career  preparation.  Whether you're seeking guidance on resume building, interview tips,   or want to enhance <br />  your professional  skills, 
+          Welcome to the ultimate productivity hub , designed to streamline your career development and communication needs.<br />   Our platform centralizes multiple powerful tools to help you succeed, from general knowledge  assistance to <br />  specialized career  preparation.  Whether you&apos;re seeking guidance on resume building, interview tips,   or want to enhance <br />  your professional  skills, 
             our AI-powered solutions  are here to support you every step of the way.  Collaborate, <br />  learn, and grow with resources
             tailored for both individuals and teams.
           </p>

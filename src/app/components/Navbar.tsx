@@ -7,7 +7,7 @@ import Image from 'next/image';
 import logo from '../../../public/images/logo.png';
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
-  const router = useRouter();
+  // const router = useRouter();
 
   const toggleMenu = () => {
     setIsOpen(!isOpen);
